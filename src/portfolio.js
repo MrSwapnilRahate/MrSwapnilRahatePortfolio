@@ -752,23 +752,23 @@ const contactPageData = {
     description:
       "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
   },
-  blogSection: {
-    title: "Educational Channel",
-    subtitle:
-      "For individual fundamental empowerment, I like to make powerful video lessons that create impact on each of the reader individually to change the core of their character and their carrer development.",
-    link: "https://www.youtube.com/channel/UCRQ77SxTf4WRoJEO6YNPakA",
-    avatar_image_path: "blogs_image.svg",
-  },
+  // blogSection: {
+  //   title: "Educational Channel",
+  //   subtitle:
+  //     "For individual fundamental empowerment, I like to make powerful video lessons that create impact on each of the reader individually to change the core of their character and their carrer development.",
+  //   link: "https://www.youtube.com/channel/UCRQ77SxTf4WRoJEO6YNPakA",
+  //   avatar_image_path: "blogs_image.svg",
+  // },
   addressSection: {
     title: "Address",
     subtitle:
-      "Flat No: 104 Ramsan Estate Apartments, Ramnagar, Visakhapatnam 530002 ",
+      "Flat No: 138 Jankinagar, Kadu Petrol Pump, Katol - 441302 ",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://goo.gl/maps/ZxMHxRZ2Ai8sc52DA",
+    location_map_link: "https://www.google.com/maps/@21.1320832,79.0757376,11zA",
   },
   phoneSection: {
     title: "Phone Number",
-    subtitle: "+91 7989283721",
+    subtitle: "+91 9075200380",
   },
 };
 
